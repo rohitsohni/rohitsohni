@@ -27,7 +27,13 @@ Media:    Cloudinary, ImageKit
 - Writing clear setup instructions so projects can be reviewed quickly
 - Connecting frontend workflows to real backend APIs and database models
 - Keeping repos organized, deployable, and interview-ready
+- Adding CI checks, environment examples, and live demos so projects are easier to review
 
 ## Current Goal
 
 I am looking for opportunities where I can contribute as a full-stack developer, keep improving through real product work, and build reliable web applications with a strong user experience.
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/rohit-sohni](https://www.linkedin.com/in/rohit-sohni/)
+- Email: [rohitsohni1@gmail.com](mailto:rohitsohni1@gmail.com)
