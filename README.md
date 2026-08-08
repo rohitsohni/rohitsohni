@@ -1,39 +1,37 @@
-# Hi, I am Rohit Sohni
+# Hi, I'm Rohit Sohni 👋
 
-Full-stack developer building React, Node.js, Express, and MongoDB applications with clean UI flows, authenticated APIs, and deployable project structure.
+Software Engineer and BITS Pilani Computer Science graduate focused on building complete, deployable full-stack applications.
 
-I am currently preparing for full-stack developer roles and using this GitHub profile to show practical, end-to-end projects that can be reviewed, run locally, and discussed in interviews.
+I work across responsive React interfaces, Node.js and Express APIs, MongoDB data models, authentication, real-time features, media integrations, CI, and cloud deployment. I am currently open to Software Engineer and Full-Stack Developer opportunities.
 
 ## Featured Projects
 
-| Project | What it shows | Stack | Links |
+| Project | Highlights | Stack | Links |
 | --- | --- | --- | --- |
-| Chat Site | Real-time chat, JWT auth, Socket.IO messaging, online presence, profile updates, image uploads | React, Vite, Node.js, Express, MongoDB, Socket.IO, Cloudinary | [Repo](https://github.com/rohitsohni/chat-site) / [Live](https://client-gilt-rho.vercel.app) |
-| Luxury Car Renting Site | Car browsing, search, bookings, owner dashboard, listing management, image uploads | React, Vite, Node.js, Express, MongoDB, JWT, ImageKit | [Repo](https://github.com/rohitsohni/luxury-car-renting-site) / [Live](https://car-rental-app-three.vercel.app) |
+| Chat Site | One-to-one messaging, JWT authentication, online presence, unseen-message counts, profile updates, and image messaging | React, Vite, Node.js, Express, MongoDB, Socket.IO, Cloudinary | [Repository](https://github.com/rohitsohni/chat-site) · [Live Demo](https://client-gilt-rho.vercel.app) |
+| Luxury Car Renting Site | Car discovery and filtering, bookings, user account flows, owner dashboard, inventory management, and image uploads | React, Vite, Node.js, Express, MongoDB, JWT, ImageKit | [Repository](https://github.com/rohitsohni/luxury-car-renting-site) · [Live Demo](https://car-rental-app-three.vercel.app) |
+| AI Thumbnail Generator | Prompt-driven image generation, browser-side text composition, editing controls, export, and a local SVG fallback | React, TypeScript, Vite, Express, Pollinations AI, Sharp, Canvas API | [Repository](https://github.com/rohitsohni/ai-thumbnail-generator) · [Live Demo](https://is-omega-six.vercel.app) |
 
-## Tech I Work With
+## Technical Skills
 
-```text
-Frontend: React, Vite, Tailwind CSS, React Router, Axios
-Backend:  Node.js, Express, REST APIs, JWT authentication
-Database: MongoDB, Mongoose
-Tools:    Git, GitHub, Vercel, npm, ESLint
-Media:    Cloudinary, ImageKit
-```
+- **Languages:** JavaScript, TypeScript, Java, HTML, CSS
+- **Frontend:** React, Vite, Tailwind CSS, React Router, Axios, Canvas API
+- **Backend:** Node.js, Express, REST APIs, Socket.IO, JWT, bcrypt
+- **Database:** MongoDB, Mongoose
+- **Tools and platforms:** Git, GitHub, GitHub Actions, npm, ESLint, Vercel, Cloudinary, ImageKit, Multer
 
-## What I Focus On
+## What I Bring
 
-- Building complete applications instead of isolated UI screens
-- Writing clear setup instructions so projects can be reviewed quickly
-- Connecting frontend workflows to real backend APIs and database models
-- Keeping repos organized, deployable, and interview-ready
-- Adding CI checks, environment examples, and live demos so projects are easier to review
+- End-to-end implementation across UI, APIs, authentication, databases, media handling, and deployment
+- Repositories with setup instructions, environment examples, live demonstrations, and CI verification
+- A strong foundation in data structures, object-oriented programming, databases, operating systems, computer networks, and software engineering
+- Practical experience translating product workflows into maintainable frontend components, backend routes, and database models
 
 ## Current Goal
 
-I am looking for opportunities where I can contribute as a full-stack developer, keep improving through real product work, and build reliable web applications with a strong user experience.
+I am looking for Software Engineer and Full-Stack Developer roles where I can contribute to real product development and continue strengthening my engineering skills.
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/rohit-sohni](https://www.linkedin.com/in/rohit-sohni/)
-- Email: [rohitsohni1@gmail.com](mailto:rohitsohni1@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/rohit-sohni/)
+- [Email](mailto:rohitsohni1@gmail.com)
