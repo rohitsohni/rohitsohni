@@ -24,19 +24,3 @@ I’m looking for a full-stack development role where I can contribute to both f
 - **Real-Time Chat Site:** [Code](https://github.com/rohitsohni/chat-site) · [Live demo](https://client-gilt-rho.vercel.app)
 - **AI Thumbnail Generator:** [Code](https://github.com/rohitsohni/ai-thumbnail-generator) · [Live demo](https://is-omega-six.vercel.app)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
