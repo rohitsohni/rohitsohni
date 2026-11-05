@@ -8,6 +8,8 @@ My projects include a car rental platform with customer booking and owner workfl
 
 I’m looking for a full-stack development role where I can contribute to both frontend and backend work, learn from experienced engineers, and build software that people find useful.
 
+From June 2019 to August 2025 I took a planned career break for personal reasons. The matter is fully resolved, and I'm ready to work full-time. Since September 2025 I've been back in software development full-time: I completed Coding Ninjas certifications in Java, DSA in Java, Frontend and Backend Development, and built and deployed the three full-stack projects below.
+
 ## Skills
 
 - **Languages:** JavaScript, TypeScript, Java, Python
