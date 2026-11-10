@@ -12,13 +12,15 @@ From June 2019 to August 2025 I took a planned career break for personal reasons
 
 ## Skills
 
-- **Languages:** JavaScript, TypeScript, Java, Python
+- **Languages:** JavaScript, TypeScript, Java, Python, C, C++
 - **Frontend:** React, HTML5, CSS3, Tailwind CSS, React Router, Axios, Canvas API
 - **Backend:** Node.js, Express.js, REST APIs, JWT authentication, Socket.IO
 - **Databases:** MongoDB, Mongoose
-- **AI:** Generative AI, AI API integration (Pollinations AI), AI agents, multi-agent workflows, prompt engineering, workflow automation
+- **Also:** MERN stack, Full-Stack Development, Data Structures and Algorithms
+- **AI:** Generative AI, AI API integration (Pollinations AI), AI agents, agentic AI, multi-agent workflows, prompt engineering, workflow automation, browser automation, AI-assisted development
 - **AI tools:** ChatGPT, Grok Bot, Claude, Gemini, GitHub Copilot, Cursor
-- **Tools and practices:** Git, GitHub, Git workflow (branching, pull requests), code review, rapid prototyping, debugging and troubleshooting, Vite, Vercel, Cloudinary, ImageKit
+- **Tools and practices:** Git, GitHub, Git workflow (branching, pull requests), version control, code review (manual and AI-assisted), rapid prototyping, debugging and troubleshooting, problem solving, Vite, Vercel, Cloudinary, ImageKit, API testing, deployment and hosting
+- **Engineering practices:** Real-time applications (WebSockets), authentication and authorization, RESTful API design, responsive web design, state management (React Hooks), image upload and storage, role-based dashboards, MVC architecture, object-oriented programming
 
 ## Projects
 
